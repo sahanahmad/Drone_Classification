@@ -1,0 +1,23 @@
+# Dataset (large binary files — not tracked in git)
+drone_dataset/
+
+# Generated outputs
+output/
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.egg-info/
+dist/
+build/
+.venv/
+drone_env/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
